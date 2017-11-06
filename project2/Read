@@ -1,0 +1,17 @@
+PROJECT 2 -ECE242 FALL 2015
+===========================
+Matthew Bolognese
+28712478
+mbolognese@umass.edu
+
+Jacqueline Lagasse
+28645176
+jlagasse@umass.edu
+
+The zip archive contains:
+
+1- FunWithWords.pdf (description of the project)
+2- shortdb.txt (database for the project)
+3- largedb.txt (database for the project)
+4- EasyIn.java (class to ease input from keyboard, we altered this class slightly to allow for some change in return values)
+
